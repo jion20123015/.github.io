@@ -1,0 +1,30 @@
+body{
+    background: rgb(226, 255, 159);
+    }
+    h1{
+    color: rgb(255, 255, 255)
+    }
+    .title{
+     width: 1350px;
+     background:#ff7b00;
+     padding: 30px;
+     margin: 0px auto;
+     border-radius: 20px;
+     position: relative;
+    }
+    .text{
+        width: 800px;
+        background: #ffffff;
+        padding: 30px;
+        margin: 0px auto;
+        border-radius: 20px;
+        position: relative;
+    }
+    .introduction{
+        width: 650px;
+        background: #b0f6f6;
+        padding: 30px;
+        margin: 0px auto;
+        border-radius: 20px;
+        position: relative;
+    }
